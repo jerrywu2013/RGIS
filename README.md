@@ -14,7 +14,8 @@ library(leaflet)
 library(shiny)
 ```
 #### Example
-* `leader` Component(s) to lead the
 * RGIS
 <img src="https://raw.githubusercontent.com/rippleblue/RGIS/master/RGIS.jpg" align="left" hspace="10" vspace="6" height="300">
+* RGIS
+
 
