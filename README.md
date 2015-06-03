@@ -15,5 +15,5 @@ library(shiny)
 ```
 #### Example
 #####RGIS
-<img src="https://raw.githubusercontent.com/rippleblue/RGIS/master/RGIS.jpg" align="left" hspace="10" vspace="6" hight="100">
+<img src="https://raw.githubusercontent.com/rippleblue/RGIS/master/RGIS.jpg" align="left" hspace="10" vspace="6" height="100">
 
