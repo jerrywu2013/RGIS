@@ -1,4 +1,4 @@
-# RGIS and RShinyGIS 
+# RGIS and Shiny 
 
 <hr>
 
@@ -13,9 +13,11 @@ devtools::install_github("rstudio/leaflet")
 library(leaflet)
 library(shiny)
 ```
-#### Example
-* RGIS
+#### RGIS Example 
 <img src="https://raw.githubusercontent.com/rippleblue/RGIS/master/RGIS.jpg" align="left" hspace="10" vspace="6" height="300">
-* RGIS
+
+#### Shiny Example 
+<img src="https://raw.githubusercontent.com/rippleblue/RGIS/master/RShnyGIS.jpg" align="left" hspace="10" vspace="6" height="300">
+
 
 
