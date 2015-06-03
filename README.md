@@ -8,3 +8,4 @@ devtools::install_github("rstudio/leaflet")
 library(leaflet)
 library(shiny)
 ```
+[![Build Status](https://travis-ci.org/Rdatatable/data.table.svg?branch=master)]
