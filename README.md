@@ -1,5 +1,5 @@
 # RGIS and RShinyGIS Tutorial 
-![Build Status](https://github.com/rippleblue/RGIS/tree/master)
+[![Build Status](https://github.com/rippleblue/RGIS/tree/master)]
 #### Install 
 ```
 install.packaes("shiny")
