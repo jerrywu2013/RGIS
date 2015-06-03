@@ -1,4 +1,6 @@
-# RGIS and RShinyGIS Tutorial [![Build Status]
+# RGIS and RShinyGIS Tutorial 
+
+(https://github.com/rippleblue/RGIS/tree/master)[![Build Status]
 
 #### Install 
 ```
