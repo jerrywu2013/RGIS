@@ -13,7 +13,7 @@ devtools::install_github("rstudio/leaflet")
 library(leaflet)
 library(shiny)
 ```
-#### RGIS Example 
+#### Example 
 <img src="https://raw.githubusercontent.com/rippleblue/RGIS/master/RGIS.jpg" align="left" hspace="10" vspace="6" height="300">
 <img src="https://raw.githubusercontent.com/rippleblue/RGIS/master/Shiny.jpg" align="left" hspace="10" vspace="6" height="300">
 
